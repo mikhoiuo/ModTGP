@@ -11,8 +11,18 @@ This should go unsaid, but have a code editor. Going through all of this in some
 
 Everything here is written from the standpoint of a Linux user. It's basically the same on MacOS and kind of similiar on Windows, but keep in mind I'm talking from my own perspective.
 
-##
+## Resource and Asset Map
 
-## 
+## Dialogue, Books, Etc
 
-##
+## Cosmetics
+### Codes
+### Custom Skin
+
+## Items
+
+## Interactions
+
+## Player-Specific Stuff (Lands, Classpects, Etc)
+
+## Events
